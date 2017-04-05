@@ -1,1 +1,1 @@
-remote repository test
+remote repository text
